@@ -1,0 +1,10 @@
+button {
+  color: cornflowerblue;
+  text-decoration: underline;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  text-decoration: none;
+}

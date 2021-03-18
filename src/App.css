@@ -1,0 +1,18 @@
+body {
+  padding: 0 20px;
+  background-color: #efefef;
+}
+
+.App {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h1 {
+  color: cornflowerblue;
+}
+
+.App .error {
+  color: red;
+  font-weight: bold;
+}
